@@ -1,0 +1,36 @@
+@media (max-width: 996px) {
+  /* navbar  */
+  .navbar-items-list {
+    margin-left: unset;
+  }
+
+  /* job search*/
+  .job {
+    order: 1;
+  }
+  .job-img {
+    order: 2;
+  }
+
+  .calculate-img {
+    order: 4;
+  }
+  .calculate {
+    order: 3;
+  }
+  .salary {
+    order: 5;
+  }
+  .salary-img {
+    order: 6;
+  }
+
+  /* footer  */
+  .footer-div {
+    display: flex;
+    justify-content: center;
+  }
+  .footer-logo {
+    width: 14%;
+  }
+}
